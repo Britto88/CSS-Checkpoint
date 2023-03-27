@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+background-color: #24263b;
+}
+
+
+h1 {
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 70px;
+    padding: 30px 0px;
+}
+
+#jonathan {color: rgba(255, 255, 255, 0.466); 
+font-family: Helvetica; 
+justify-content: space-between;
+padding: 30px 0px;
+font-size: 30px; }
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header {
+    background-color: #191b2b;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    height: 100px;
+    padding: 30px 64px; 
+}
+
+.topnav-right a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: white; 
+    margin-left: 20px;
+
+}
+
+.home{
+    display: flex;
+    align-items: center;
+    padding: 0px 60px;
+}
+
+
+.social span {
+    font-size: 30px;
+    color: white;
+    border: 2px solid #e34553; 
+    padding: 10px;
+    border-radius: 28px;
+    margin-right: 20px;
+    
+}
+
+#Portfolio {
+    font-family: Helvetica;
+    font-size: 16px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid #e34553; 
+    padding: 15px 50px;
+    border-radius: 28px;
+    margin-right: 20px;
+}
+
+#mid-play {
+    font-size: 24px;
+    background-color: #e34553;
+    color: white;
+    border: none;
+    padding: 10px 40px;
+    border-radius: 28px   ; 
